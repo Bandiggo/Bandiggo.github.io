@@ -126,7 +126,7 @@ export const DATA = {
     },
     {
       title: "Procedural Wall Generation",
-      href: "https://magicui.design",
+      href: "#",
       dates: "September 2023 - June 2024",
       active: true,
       description:
@@ -144,11 +144,11 @@ export const DATA = {
     },
     {
       title: "Spotify to YouTube Playlist Convert",
-      href: "https://llm.report",
+      href: "https://github.com/Bandiggo/Spotify-to-Youtube-Music",
       dates: "March 2025",
       active: true,
       description:
-        "Developed an open-source logging and analytics platform for OpenAI: Log your ChatGPT API requests, analyze costs, and improve your prompts.",
+        "Developed a full-stack web application that enables users to convert Spotify playlists to YouTube Music with a single click, supporting both authenticated user playlists and public playlists.",
       technologies: [
         "React",
         "Typescript",
